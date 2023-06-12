@@ -1,0 +1,219 @@
+.hotel{
+    width: 100%;
+    height: 400px;
+}
+
+
+
+
+
+
+
+.head{
+    background-color: green;
+    border: 2px soild  black;
+}
+
+.top{
+    border: transparent;
+    background-color: transparent;
+    margin-left: 300px;
+}
+
+.bottom{
+    border: transparent;
+    background-color: transparent;
+    margin-left: 100px;
+}
+
+.apple{
+    position:relative;
+    width: 50px;
+    height: 50px;
+    margin-left: 300px;
+    top: 20px;
+}
+
+
+.look{
+    margin-top: -30px;
+    margin-left: 350px;
+    font-weight: bold;
+}
+
+
+
+
+.took{
+    margin-left: 390px;
+    margin-top: -20px;
+    font-size: 10px;
+}
+
+
+.list{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -70px;
+   
+}
+
+.pop{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -70px;
+    border: transparent;
+}
+
+.lop{
+    position: absolute;
+    margin-left: 830px;
+    margin-top: -70px;
+    border: transparent;
+}
+
+.job{
+    position: absolute;
+    margin-left: 970px;
+    margin-top: -70px;
+}
+.box{
+    position: relative;
+}
+.bi-search{
+    position: absolute;
+    margin-left: 1125px;
+    margin-top: -67px;
+    height: 10px;
+    width: 10px;
+    
+}
+.bi-person{
+    margin-left: -1px;
+    color: white;
+}
+
+.bi-cart{
+    margin-left: 260px;
+    color: white;
+}
+.line{
+    width: 2px;
+    height: 20px;
+    color: white;
+    background-color:transparent;
+
+}
+
+.bi-list-ul{
+    color: white;
+}
+
+
+
+.hop{
+    margin-top: -300px;
+    color: white;
+    margin-left: 200px;
+}
+
+.get{
+    color: white;
+    margin-left:190px;
+    font-size: 100px;
+     margin-top: -20px;
+}
+
+.mon{
+    color: white;
+    margin-left:200px;
+    margin-top: -20px;
+    font-weight: bold;
+}
+
+
+.lon{
+    color: white;
+    margin-left:200px;
+    margin-top: -20px;
+    font-weight: bold;
+}
+
+
+
+.jill{
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 250px;
+    flex-direction: column;
+    
+}
+
+.bom{
+    margin-left: -200px;
+}
+
+
+
+.tom{
+    margin-left: 100px;
+}
+
+
+
+
+
+.fooder{position: absolute;
+    margin-left: 150px;
+    margin-top: -100px;
+    color: white;
+}
+
+
+.das{position: absolute;
+    margin-left: 200px;
+    margin-top: -80px;
+    color: white;
+}
+
+
+
+
+.loli{position: absolute;
+    margin-left: -130px;
+    margin-top: -100px;
+    color: white;
+}
+
+
+.kill{position: absolute;
+    margin-left: -100px;
+    margin-top: -80px;
+    color: white;
+}
+
+
+
+
+
+
+
+.hill{
+    position: absolute;
+    margin-left: 430px;
+    margin-top: -50px;
+    background-color: green;
+}
+
+
+
+
+.mill{
+    position: absolute;
+    margin-left: 770px;
+    margin-top: -50px;
+    background-color: green;
+}
+
+
+
