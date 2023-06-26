@@ -1,0 +1,247 @@
+
+.head{
+    position: absolute;
+    margin-left: 440px;
+
+}
+
+.foot{
+    position: absolute;
+    margin-top: 40px;
+    width: 20%;
+    margin-left: 430px;
+}
+
+
+.hoot{
+    position: absolute;
+    margin-left:400px;
+    margin-top: 420px;
+}
+.img{
+    position: relative;
+    margin-top: 100px;
+    height: 200px;
+    width: 20%;
+    border-radius: 60px;
+    margin-left: 30px;
+}
+
+.lot{
+    position: absolute;
+    margin-top: 50px;
+    height: 200px;
+    width: 20%;
+    left: 300px;
+    border-radius: 60px;
+
+    
+}
+
+.pot{
+    position: absolute;
+    margin-top: 50px;
+    height: 200px;
+    width: 20%;
+    left: 570px;
+    border-radius: 60px;
+
+    
+}
+
+.code{
+    position: absolute;
+    margin-top: 100px;
+    height: 200px;
+    width: 20%;
+    margin-left: 610px;
+    border-radius: 60px;
+
+    
+}
+
+.root{
+    position: absolute;
+    margin-top: 320px;
+    height: 200px;
+    width: 20%;
+    margin-left: 610px;
+    border-radius: 60px;
+
+    
+}
+
+.loot{
+    position: absolute;
+    margin-top: 320px;
+    height: 200px;
+    width: 20%;
+    margin-left:-240px;
+    border-radius: 60px;
+
+    
+}
+
+.mute{
+    position: absolute;
+    margin-top: 550px;
+    height: 200px;
+    width: 20%;
+    margin-left: -200px;
+    border-radius: 60px;
+
+    
+}
+
+.title{
+    position: absolute;
+    margin-top: 550px;
+    height: 200px;
+    width: 20%;
+    margin-left: 580px;
+    border-radius: 60px;
+
+    
+}
+
+
+.soon{
+    position: absolute;
+    margin-top: 650px;
+    height: 200px;
+    width: 20%;
+    margin-left: 330px;
+    border-radius: 60px;
+
+    
+}
+
+
+
+.noon{
+    position: absolute;
+    margin-top: 650px;
+    height: 200px;
+    width: 20%;
+    margin-left: 60px;
+    border-radius: 60px;
+
+    
+}
+
+.what{
+    position: absolute;
+}
+
+.mix{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 130px;
+   
+}
+
+.max{
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 1000px;
+}
+
+.get{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 900px;
+}
+
+.mode{
+    position: absolute;
+    margin-top: 520px;
+    margin-left: 230px;
+}
+
+.load{
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 50px;
+}
+
+.meet{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 800px;
+}
+
+.art{
+    position: absolute;
+    margin-top: 530px;
+    margin-left: 780px;
+}
+
+.lamb{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -230px;
+}
+
+.map{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 516px;
+}
+.tap{
+    position: absolute;
+    margin-top: -4px;
+    margin-left: 1006px;
+}
+.area{
+    position: absolute;
+    margin-top: 495px;
+    margin-left: 150px;
+    height: 30px;
+}
+
+.wroot{
+    position: absolute;
+    margin-top: 495px;
+    margin-left: 250px;
+    height: 30px;
+}
+
+.bi-zoom-in{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: -300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bi-zoom-in{
+    position: absolute;
+    margin-top: -160px;
+    left: 540px;
+    color: blue;
+}
+
+
+
+.tik{
+    display: inline-block;
+    margin-left: 30px;
+    box-shadow: 5px 6px blue;
+}
+
